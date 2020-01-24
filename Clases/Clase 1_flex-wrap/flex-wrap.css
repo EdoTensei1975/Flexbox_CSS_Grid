@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #2B2B2B;
+}
+
+.container-header{
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+
+.item{
+    width: 25%;
+    background-color: #393939;
+    color: #AABE9F;
+    border: 1px solid skyblue;
+}

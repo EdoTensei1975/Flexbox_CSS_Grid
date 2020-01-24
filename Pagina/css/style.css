@@ -1,11 +1,9 @@
 .container-header{
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
 }
 
-.item{
+.item {
     width: 200px;
     border: 1px solid skyblue;
-    position: relative;
 }
